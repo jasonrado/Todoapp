@@ -1,0 +1,25 @@
+{
+  "name": "todoapp2",
+  "version": "1.0.0",
+  "description": "README.md\r RadoSarmiento To do app",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonrado/Todoapp.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "radosarmiento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonrado/Todoapp/issues"
+  },
+  "homepage": "https://github.com/jasonrado/Todoapp#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
